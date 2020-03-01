@@ -1,0 +1,42 @@
+
+h2{
+    font-family:arial;
+    color:White;
+    position:relative
+}
+
+body {
+background: linear-gradient(90deg, #0078b9, #80379b);
+}
+
+  #pupilogo {
+    height: 138px;
+    width: 400px;
+    text-align:center;
+     }
+  
+  #logo {
+  padding: 10px;
+  text-align:center;
+  }
+  
+  #Welcome
+  {
+  text-align:center;
+  padding-top:25px;
+  height:45px;
+  }
+  
+  #box{
+     Width: 320px;
+     height: 270px;
+     background: rgba(255, 255, 255, 0.1);
+     border-radius: 2%;
+     margin-top:25px;
+     margin-right:auto;
+     margin-bottom:25px;
+     margin-left:auto;
+     position: relative;
+     padding:35;
+  
+  }
