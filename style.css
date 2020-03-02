@@ -39,7 +39,7 @@ p{
   
   }
   
- .buttons{
+ .button{
  
  font-family:arial;
  font-size:14px;
@@ -75,10 +75,14 @@ p{
   
  
   
-  .bottom-text{
+  #bottom-text{
+    width:400px;
+    height:27px;
+    padding:10px;
     color:#f0e4e4;
     margin:0 auto;
     text-align:center;
+
   }
   
  
