@@ -22,7 +22,7 @@ What I learned off this whole project was use your resources around you. Had it 
 
 As it allowed me to completely override my other code.
 
-> Not only is the skill of communication and googling a question important in SEP but in its also important anywhere in our lives. It could be useful for other classes, it could be for work and a simple google search may save you countless hours. We are in a time that technology has taken over and we should take advantage of it.  
+> Not only is the skill of communication and googling a question important in SEP but in its also important anywhere in our lives. It could be useful for other classes, it could be for work and with a simple google search it may save you countless hours. We are in a time that technology has taken over and we should take advantage of it.  
 
 Link to my [Planning Document](https://docs.google.com/document/d/1eES174rivIfOkhRIRTh4OQ2Jw8h4PWSASwaZdVyoH-8/edit)  
 
