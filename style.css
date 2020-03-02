@@ -1,42 +1,87 @@
+body {
+background: linear-gradient(90deg, #0078b9 , #80379b );
+
+}
 
 h2{
+    
     font-family:arial;
-    color:White;
-    position:relative
+    font-size:24px;
+    color:#f0e4e4;
+    margin:0px;
+
 }
 
-body {
-background: linear-gradient(90deg, #0078b9, #80379b);
+p{
+    color:white;
+    line-height:15px;
 }
-
-  #pupilogo {
+  #logo {
+  width:400px;
+  margin:15px auto;
+  padding:10px;
+  }
+  
+ img {
     height: 138px;
     width: 400px;
-    text-align:center;
      }
-  
-  #logo {
-  padding: 10px;
-  text-align:center;
-  }
-  
-  #Welcome
-  {
-  text-align:center;
-  padding-top:25px;
-  height:45px;
-  }
-  
-  #box{
-     Width: 320px;
-     height: 270px;
+
+  #login-box{
+    
+     Width: 250px;
+     height: 184px;
      background: rgba(255, 255, 255, 0.1);
-     border-radius: 2%;
-     margin-top:25px;
-     margin-right:auto;
-     margin-bottom:25px;
-     margin-left:auto;
-     position: relative;
-     padding:35;
+     text-align:center;
+     padding:35px;
+     border-radius: 5px;
+     margin:0px auto;
   
   }
+  
+ .buttons{
+ 
+ font-family:arial;
+ font-size:14px;
+ color:#f0e4e4;
+ padding:12px 15px;
+ border-radius:5px;
+ vertical-align:middle;
+ width:auto;
+ }
+ 
+
+ 
+ #Sign-in{
+ background:rgba(255,255,255,0.1);
+  }
+  
+ #Sign-in:hover{
+ background:rgba(255,255,255,0.4);
+     
+ }
+ 
+  
+  a {
+  font-family:arial;
+  font-size:13px;
+  color:#f0e4e4;
+  
+  } 
+  
+   a:hover{
+      text-decoration:underline !important;
+  }
+  
+ 
+  
+  .bottom-text{
+    color:#f0e4e4;
+    margin:0 auto;
+    text-align:center;
+  }
+  
+ 
+  
+
+  
